@@ -3,6 +3,8 @@
 A goofy side project to model/test the idea of a Markov chain and apply it to phrase generation, as well as to test the waters with QT.
 The program takes in a text file* and depending on the block size (or n-gram size) given, spits out a phrase based on what it just read.
 
+![Screenie](https://github.com/tston529/QT_Phrase_Generator/blob/master/TestFiles/example.jpg)
+
 # Credit
 
 Dunno where to give credit, but here seems fitting.  The idea came from Daniel Shiffman (https://twitter.com/shiffman) and his YouTube
